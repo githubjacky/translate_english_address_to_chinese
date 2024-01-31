@@ -1,0 +1,6 @@
+[core]
+    remote = origin
+['remote "origin"']
+    url = https://dagshub.com/githubjacky/translate_english_address_to_chinese.dvc
+    read_timeout = 0
+    connect_timeout = 0
