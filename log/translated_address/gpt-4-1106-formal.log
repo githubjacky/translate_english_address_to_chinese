@@ -1,0 +1,22 @@
+2024-03-16 15:56:16.509 | INFO     | llm_research.model.base_model:request_batch:179 - start the query process
+2024-03-16 16:34:38.387 | INFO     | llm_research.model.base_model:__hook_process:139 - restart the process form the 291th query
+2024-03-16 16:34:48.489 | INFO     | llm_research.model.base_model:__hook_process:139 - restart the process form the 291th query
+2024-03-16 16:34:48.508 | INFO     | llm_research.model.base_model:request_batch:179 - start the query process
+2024-03-16 16:36:00.154 | INFO     | llm_research.model.base_model:__hook_process:139 - restart the process form the 291th query
+2024-03-16 16:36:00.167 | INFO     | llm_research.model.base_model:request_batch:179 - start the query process
+2024-03-16 16:37:20.811 | INFO     | llm_research.model.base_model:__format_handler:98 - Please reduce the length of the prompt for the 309th sample
+2024-03-16 16:47:37.678 | INFO     | llm_research.model.base_model:__hook_process:139 - restart the process form the 309th query
+2024-03-16 16:47:37.698 | INFO     | llm_research.model.base_model:request_batch:179 - start the query process
+2024-03-16 17:01:53.630 | INFO     | llm_research.model.base_model:__format_handler:98 - Please reduce the length of the prompt for the 503th sample
+2024-03-16 17:04:24.154 | INFO     | llm_research.model.base_model:__hook_process:139 - restart the process form the 503th query
+2024-03-16 17:04:24.166 | INFO     | llm_research.model.base_model:request_batch:179 - start the query process
+2024-03-16 17:06:06.298 | INFO     | llm_research.model.base_model:__format_handler:98 - Please reduce the length of the prompt for the 526th sample
+2024-03-16 18:48:27.132 | INFO     | llm_research.model.base_model:request_batch:179 - start the query process
+2024-03-17 05:07:45.667 | INFO     | llm_research.model.base_model:__format_handler:98 - Please reduce the length of the prompt for the 8308th sample
+2024-03-17 10:18:23.770 | INFO     | llm_research.model.base_model:__hook_process:139 - restart the process form the 8308th query
+2024-03-17 10:18:32.515 | INFO     | llm_research.model.base_model:__hook_process:139 - restart the process form the 8308th query
+2024-03-17 10:18:32.527 | INFO     | llm_research.model.base_model:request_batch:179 - start the query process
+2024-03-17 12:41:48.549 | INFO     | llm_research.model.base_model:__format_handler:98 - Please reduce the length of the prompt for the 10209th sample
+2024-03-17 14:04:20.812 | INFO     | llm_research.model.base_model:__hook_process:139 - restart the process form the 10209th query
+2024-03-17 14:04:20.834 | INFO     | llm_research.model.base_model:request_batch:179 - start the query process
+2024-03-17 16:19:25.397 | INFO     | llm_research.model.base_model:request_batch:191 - finish the query process

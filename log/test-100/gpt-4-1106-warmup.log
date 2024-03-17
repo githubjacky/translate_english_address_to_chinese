@@ -1,2 +1,0 @@
-2024-01-30 16:14:29.966 | INFO     | llm_research.model.base_model:request_batch:179 - start the query process
-2024-01-30 16:24:26.356 | INFO     | llm_research.model.base_model:request_batch:191 - finish the query process
